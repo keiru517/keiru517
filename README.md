@@ -15,8 +15,11 @@
 ## Skill sets 🕹
 - Python/Django/Flask/Celery/Cython
 - ChatGPT/ChatGPT-4 Plugin/Langchain/Pinecone/Chroma
+- IVR with Twilio and ChatGPT
+- WhatsApp Bot/Telegram Bot/ Discord Bot/ Messaging Bot/ Scrapig Bot
 - React/Vue/Next/Nuxt/Node/Express
 - Laravel/Wordpress
 - Shopify
+- Stripe/Metamask/Emetec/Yappy
 - ASP.NET/ASP.NET Core
 - AWS/Heroku/Vercel/Render
