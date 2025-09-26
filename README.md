@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Python | React | ChatGPT | Langchain | Bot Developer
+## Python | LangChain, LangGraph, LangFlow, LangFuse, RAG, Automation
 - 🌱 I’m currently learning AI technologies that can make businesses more effective
 
 ## Achievements 🏅
